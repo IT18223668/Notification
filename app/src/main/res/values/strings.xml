@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Notification</string>
+    <string name="name">Name</string>
+    <string name="mail">Email</string>
+    <string name="phoneno">contact no</string>
+    <string name="PASSWORD">password</string>
+    <string name="CNOFIRM_PASSWORD">confirim password</string>
+    <string name="NAME">Enter Name</string>
+    <string name="channel_Description" />
+
+
 </resources>
